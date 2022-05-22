@@ -66,7 +66,7 @@
 		0409C9C1273E9F4B002590F4 /* DessertApp_SwiftUI */ = {
 			isa = PBXGroup;
 			children = (
-				04524AFA274698CC00BE8EBE /* Assets */,
+				04524AFA274698CC00BE8EBE /* Resources */,
 				04D6F9E727417BC700EC2BC3 /* View */,
 				04AF4F35273ED6920049291B /* Model */,
 				0409C9D1273EA3F3002590F4 /* Extension */,
@@ -95,12 +95,12 @@
 			path = Extension;
 			sourceTree = "<group>";
 		};
-		04524AFA274698CC00BE8EBE /* Assets */ = {
+		04524AFA274698CC00BE8EBE /* Resources */ = {
 			isa = PBXGroup;
 			children = (
 				04175D59283AB4D100078D9F /* banner.png */,
 			);
-			path = Assets;
+			path = Resources;
 			sourceTree = "<group>";
 		};
 		04AF4F35273ED6920049291B /* Model */ = {
